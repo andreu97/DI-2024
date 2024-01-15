@@ -131,7 +131,7 @@
       </item>
      </layout>
     </item>
-    <item row="2" column="0" colspan="2">
+    <item row="1" column="0" colspan="2">
      <layout class="QHBoxLayout" name="horizontalLayout">
       <item>
        <widget class="QPushButton" name="pushButton_2">
@@ -149,13 +149,6 @@
       </item>
      </layout>
     </item>
-    <item row="1" column="0">
-     <widget class="QPushButton" name="pushButton_3">
-      <property name="text">
-       <string>PushButton</string>
-      </property>
-     </widget>
-    </item>
    </layout>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -170,6 +163,16 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
+ <tabstops>
+  <tabstop>textEdit_5</tabstop>
+  <tabstop>textEdit_6</tabstop>
+  <tabstop>textEdit</tabstop>
+  <tabstop>textEdit_2</tabstop>
+  <tabstop>textEdit_3</tabstop>
+  <tabstop>textEdit_4</tabstop>
+  <tabstop>pushButton_2</tabstop>
+  <tabstop>pushButton</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>
